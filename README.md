@@ -22,7 +22,7 @@ The primary objectives of this project are as follows:
 
 6. **Recommendations**: Based on the analysis, propose actionable recommendations to improve customer experience and tailor marketing strategies to target the identified customer segments effectively.
 
-7. **Project Documentation**: Create well-structured code using Python and Jupyter notebooks. Document the analysis process, findings, and recommendations clearly to share with stakeholders.
+7. **Project Documentation**: Create well-structured code using Python and Jupyter Notebooks. Document the analysis process, findings, and recommendations clearly to share with stakeholders.
 
 ## Getting Started
 
@@ -48,4 +48,4 @@ By completing the **DIWALI_SALES_ANALYSIS** project, you will gain practical exp
 
 Let's dive into the exciting world of Diwali sales data analysis and work towards making this festive season a remarkable one for both customers and businesses. Happy coding and analyzing! 🪔🛍️📊
 
-For any questions or assistance, feel free to reach out or refer to the documentation provided in this repository.
+For any questions or assistance, feel free to reach out or refer to the code provided in this repository.
